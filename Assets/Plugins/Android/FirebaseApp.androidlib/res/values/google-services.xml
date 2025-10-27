@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://click-study-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">834104701679</string>
+  <string name="google_storage_bucket" translatable="false">click-study.firebasestorage.app</string>
+  <string name="project_id" translatable="false">click-study</string>
+  <string name="google_api_key" translatable="false">AIzaSyA5FbbHks8kUhc3yigDM2k6Y6TN_kcxCSI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA5FbbHks8kUhc3yigDM2k6Y6TN_kcxCSI</string>
+  <string name="google_app_id" translatable="false">1:834104701679:android:e2ca803158265c41a5211a</string>
+</resources>
